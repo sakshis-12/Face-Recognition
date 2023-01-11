@@ -51,7 +51,7 @@ class Developer:
 
           # developer info
 
-        dev_label = Label(main_frame, text="Hello my name is Ankita", font=(
+        dev_label = Label(main_frame, text="Hello my name is Sakshi", font=(
             "times new roman", 15, "bold"), bg="white")
         dev_label.place(x=0,y=5)
 
